@@ -12,7 +12,11 @@
 
 </div>
   
+<<<<<<< HEAD
 The final session has launched on September 2, 2019. You can join at any point till the end of the session (November 22). Fill in [this form](https://docs.google.com/forms/d/10HAN5huM996snUKjsNYyT_oOlm2uOsTKulKurb3oiNM/) to participate, please explore the main page [mlcourse.ai](https://mlcourse.ai) as well.
+=======
+[mlcourse.ai](https://mlcourse.ai) is an open Machine Learning course by [OpenDataScience](https://ods.ai/en/). The course is designed to perfectly balance theory and practice. You can take part in several Kaggle Inclass competitions held during the course. From spring 2017 to fall 2019, 6 sessions of mlcourse.ai took place - 26k participants applied, 10k converted to passing the first assignment, about 1500 participants finished the course. Currently, the course is in self-paced mode. A thorough roadmap guiding you through the self-paced mlcourse.ai will be published in January, 2020. 
+>>>>>>> 0605c201b7097af7524f0d39d2b2026d703c299a
 
 Mirrors (:uk:-only): [mlcourse.ai](https://mlcourse.ai) (main site), [Kaggle Dataset](https://www.kaggle.com/kashnitsky/mlcourse) (same notebooks as Kernels)
 
@@ -44,6 +48,7 @@ Introduction, [video](https://www.youtube.com/watch?v=DrohHdQa8u8), [slides](htt
 9. Time series analysis with Python (ARIMA, Prophet) - [video](https://youtu.be/_9lBwXnbOd8)
 10. Gradient boosting: basic ideas - [part 1](https://youtu.be/g0ZOtzZqdqk), key ideas behind Xgboost, LightGBM, and CatBoost + practice - [part 2](https://youtu.be/V5158Oug4W8)
 
+<<<<<<< HEAD
 ### Fall 2019 assignments
 
 All deadlines are 20:59 GMT (London time), check out also [this Google calendar](https://calendar.google.com/calendar?cid=Z25pZ3EwZGxxb2I5cDZwMWptam5rdmY3NWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
@@ -64,6 +69,9 @@ All deadlines are 20:59 GMT (London time), check out also [this Google calendar]
 
 ### Demo assignments, just for practice
 The following are demo versions. Full versions are announced during course sessions.  
+=======
+### Demo assignments
+>>>>>>> 0605c201b7097af7524f0d39d2b2026d703c299a
 1. Exploratory data analysis with Pandas, [nbviewer](https://nbviewer.jupyter.org/github/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_demo/assignment01_pandas_uci_adult.ipynb?flush_cache=true), [Kaggle Kernel](https://www.kaggle.com/kashnitsky/assignment-1-pandas-and-uci-adult-dataset), [solution](https://www.kaggle.com/kashnitsky/a1-demo-pandas-and-uci-adult-dataset-solution)
 2. Analyzing cardiovascular disease data, [nbviewer](https://nbviewer.jupyter.org/github/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_demo/assignment02_analyzing_cardiovascular_desease_data.ipynb?flush_cache=true), [Kaggle Kernel](https://www.kaggle.com/kashnitsky/assignment-2-analyzing-cardiovascular-data), [solution](https://www.kaggle.com/kashnitsky/a2-demo-analyzing-cardiovascular-data-solution)
 3. Decision trees with a toy task and the UCI Adult dataset, [nbviewer](https://nbviewer.jupyter.org/github/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_demo/assignment03_decision_trees.ipynb?flush_cache=true), [Kaggle Kernel](https://www.kaggle.com/kashnitsky/assignment-3-decision-trees), [solution](https://www.kaggle.com/kashnitsky/a3-demo-decision-trees-solution)
@@ -78,9 +86,12 @@ The following are demo versions. Full versions are announced during course sessi
 ### Kaggle competitions
 1. Catch Me If You Can: Intruder Detection through Webpage Session Tracking. [Kaggle Inclass](https://www.kaggle.com/c/catch-me-if-you-can-intruder-detection-through-webpage-session-tracking2)
 2. DotA 2 winner prediction [Kaggle Inclass](https://www.kaggle.com/c/mlcourse-dota2-win-prediction)
+<<<<<<< HEAD
 
 ### Rating
 Throughout the course we are maintaining a student rating. It takes into account credits scored in assignments and Kaggle competitions. They say, rating highly motivates to finish the course. Top students (according to the final rating) are listed on a [special page](https://mlcourse.ai/rating).
+=======
+>>>>>>> 0605c201b7097af7524f0d39d2b2026d703c299a
 
 ### Community
 Discussions are held in the **#mlcourse_ai** channel of the [OpenDataScience (ods.ai)](https://ods.ai/en/) Slack team.
